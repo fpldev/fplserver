@@ -8,5 +8,4 @@ Where practical, curl exmaples are given as well as notes on usage.
 
 ## Contributing
 
-If you feel like there is some URLs which are missing , then please create a PR or create an issue highlighting what is missing and what you would like to be added.
-
+If you feel like there are some URLs which are missing, then please create a PR or create an issue highlighting what is missing and what you would like to be added. It is not necessary to provide a code sample.
