@@ -1,8 +1,8 @@
 # fplserver repo
 
-This repo starts as a means of Indie FPL developers to collaboratively share FPL url endpoints.
+This repo starts as a place for Indie FPL developers to collaboratively share FPL url endpoints.
 
-Fed up with their server changing on the opening day of the new season :P
+Fed up with their server changing on the opening day of the each season :P
 
 Where practical, curl exmaples are given as well as notes on usage. 
 
