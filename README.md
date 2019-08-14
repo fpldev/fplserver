@@ -1,4 +1,4 @@
-# fplserver
+# fplserver repo
 
 This repo starts as a means of Indie FPL developers to collaboratively share FPL url endpoints.
 
