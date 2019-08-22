@@ -3,8 +3,8 @@ No authentication required
 `curl "https://fantasy.premierleague.com/api/fixtures/?event=1&User-Agent=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010.11%3B%20rv:40.0)%20Gecko%2F20100101%20Firefox%2F40.0" -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:40.0) Gecko/20100101 Firefox/40.0'`
 
 ## response json
-```
-json[
+```json
+[
 	{
 		"code": 1059702,
 		"event": 1,
