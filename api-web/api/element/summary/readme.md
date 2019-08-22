@@ -1,7 +1,10 @@
+No authentication requied.
+400 is an element (player) ID.
+
 `curl "https://fantasy.premierleague.com/api/element-summary/400/" -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:40.0) Gecko/20100101 Firefox/40.0'`
 
 ## response json
-`{
+```{
 	"fixtures": [
 		{
 			"code": 1059714,
@@ -692,4 +695,4 @@
 			"ict_index": "43.6"
 		}
 	]
-}`
+}```

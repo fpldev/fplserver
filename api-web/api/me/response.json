@@ -1,0 +1,14 @@
+{
+	"player": {
+		"date_of_birth": "1984-01-01",
+		"dirty": false,
+		"first_name": "Firstname",
+		"gender": "M",
+		"id": 987654,
+		"last_name": "Lastname",
+		"entry": 123456,
+		"region": 241,
+		"email": "you@yourdomain.com"
+	},
+	"watched": []
+}

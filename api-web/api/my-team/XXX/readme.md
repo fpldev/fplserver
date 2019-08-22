@@ -4,7 +4,7 @@
 `curl "https://fantasy.premierleague.com/api/my-team/XXX/" -H 'Cookie:yourCookie' -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:40.0) Gecko/20100101 Firefox/40.0'`
 
 ## returns json
-`{
+```{
 	"picks": [
 		{
 			"element": 526,
@@ -188,4 +188,4 @@
 		"bank": 110,
 		"value": 891
 	}
-}`
+}```

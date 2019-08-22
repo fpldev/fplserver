@@ -1,7 +1,7 @@
 `curl "https://fantasy.premierleague.com/api/entry/20337/" -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:40.0) Gecko/20100101 Firefox/40.0'`
 
 ## response json
-`{
+```{
 	"id": 20337,
 	"joined_time": "2019-06-27T12:21:37.088693Z",
 	"started_event": 1,
@@ -114,4 +114,4 @@
 	},
 	"name": "Mohamed Nasser",
 	"kit": null
-}`
+}```

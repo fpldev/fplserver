@@ -1,17 +1,14 @@
-`curl "https://fantasy.premierleague.com/api/entry/XXX/event/YYY/picks/" -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:40.0) Gecko/20100101 Firefox/40.0' -H 'Cookie:yourCookie`
-
-## response json
-`{
+{
 	"active_chip": null,
 	"automatic_subs": [
 		{
-			"entry": 163516,
+			"entry": 123456,
 			"element_in": 122,
 			"element_out": 43,
 			"event": 1
 		},
 		{
-			"entry": 163516,
+			"entry": 123456,
 			"element_in": 338,
 			"element_out": 80,
 			"event": 1
@@ -137,4 +134,4 @@
 			"is_vice_captain": false
 		}
 	]
-}`
+}

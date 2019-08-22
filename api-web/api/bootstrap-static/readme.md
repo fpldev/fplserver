@@ -1,3 +1,5 @@
+No authentication required.
+
 `curl "https://fantasy.premierleague.com/api/bootstrap-static/" -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:40.0) Gecko/20100101 Firefox/40.0' -H 'Accept-Encoding: gzip'`
 
 ```json

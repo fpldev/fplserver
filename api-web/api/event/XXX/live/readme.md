@@ -1,7 +1,7 @@
-`curl "https://fantasy.premierleague.com/api/event/1/live/" -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:40.0) Gecko/20100101 Firefox/40.0'`
+`curl "https://fantasy.premierleague.com/api/event/1/live/"`
 
 ## response json
-`{
+```{
 	"elements": [
 		{
 			"id": 14,
@@ -20070,4 +20070,4 @@
 			]
 		}
 	]
-}`
+}```
